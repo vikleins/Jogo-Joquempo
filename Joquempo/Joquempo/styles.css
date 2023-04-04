@@ -88,11 +88,11 @@ body{
     width: 220px;
     height: 60px;
     background-color: #0099FF;
+    border-radius: 8px;
 
     font-size: 44px ;
     font-weight: 600;
     color: #DBF1FF;
-    border-radius: 8px;
     border:none;
 
     cursor: pointer;
@@ -159,4 +159,8 @@ body{
 
 .field-player-2{
     transform: scalex(-1);
+}
+
+.start{
+    background-color:blue ;
 }
