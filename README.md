@@ -1,3 +1,3 @@
 # Jogo-Joquempo
-Jogo joquempo feito em HTML, CSS e javascript
+Jogo joquempo(pedra papel tesouta) feito em HTML, CSS e javascript
 
